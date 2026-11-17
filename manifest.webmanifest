@@ -1,0 +1,1 @@
+{"background_color":"#ffffff","description":"Demo PWA: persistencia offline con IndexedDB, patron Outbox y Background Sync.","display":"standalone","icons":[],"lang":"es","name":"Notas Offline — PWA con IndexedDB","scope":"./","short_name":"Notas Offline","start_url":"./index.html","theme_color":"#1a73e8"}
